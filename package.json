@@ -1,6 +1,6 @@
 {
   "name": "golden-shelf",
-  "version": "0.0",
+  "version": "0.2.6",
   "description": "Site for movie reviews and ratings",
   "engines": {
     "node": "6.10.2"
